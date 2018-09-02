@@ -1,3 +1,3 @@
-package vip.mystery0.rxPackageData
+package vip.mystery0.rxpackagedata
 
 enum class Status { Loading, Content, Empty, Error }

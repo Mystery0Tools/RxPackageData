@@ -1,4 +1,4 @@
-package vip.mystery0.rxPackageData
+package vip.mystery0.rxpackagedata
 
 class PackageData<T>(val status: Status,
 					 val data: T?,

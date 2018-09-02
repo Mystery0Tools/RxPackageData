@@ -1,4 +1,4 @@
-package vip.mystery0.rxPackageData.rx
+package vip.mystery0.rxpackagedata.rx
 
 import io.reactivex.Observer
 import io.reactivex.disposables.Disposable

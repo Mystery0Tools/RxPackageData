@@ -1,4 +1,4 @@
-package vip.mystery0.rxPackageData.rx
+package vip.mystery0.rxpackagedata.rx
 
 import io.reactivex.Observable
 import io.reactivex.android.schedulers.AndroidSchedulers
